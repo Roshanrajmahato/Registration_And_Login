@@ -1,0 +1,17 @@
+bcrypt==4.2.0
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+click==8.1.7
+colorama==0.4.6
+dnspython==2.3.0
+Flask==2.2.5
+gunicorn==23.0.0
+importlib-metadata==6.7.0
+itsdangerous==2.1.2
+Jinja2==3.1.4
+MarkupSafe==2.1.5
+packaging==24.0
+pymongo==4.7.3
+typing_extensions==4.7.1
+Werkzeug==2.2.3
+wincertstore==0.2
+zipp==3.15.0
